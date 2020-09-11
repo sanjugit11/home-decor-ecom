@@ -4,7 +4,7 @@
 
 copy and paste this command in terminal
 
-1.  git colne
+1.  git clone git@github.com:sanjugitstock/home-decor-ecom.git
 
 2.  npm install
 
